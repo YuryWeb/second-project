@@ -55,7 +55,7 @@ body {
 }
 
 .card__item {
-  max-width: 400px;
+  max-width: 500px;
   box-sizing: border-box; /* свойство box-sizing: чтобы свойства width и height задавали размеры НЕ КОНТЕНТА, а размеры БЛОКА */
   background-color: #e3f3ff;
   padding: 40px 40px 75px;
